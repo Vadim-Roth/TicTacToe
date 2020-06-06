@@ -1,0 +1,18 @@
+C:\Users\koman\Desktop\TicTacToe\TicTacToe\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\koman\Desktop\TicTacToe\TicTacToe\bin\TypeScriptHTMLApp1.dll
+C:\Users\koman\Desktop\TicTacToe\TicTacToe\bin\TypeScriptHTMLApp1.pdb
+C:\Users\koman\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\koman\Desktop\TicTacToe\TicTacToe\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\koman\Desktop\TicTacToe\TicTacToe\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\koman\Desktop\TicTacToe V1.3\TicTacToe\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\koman\Desktop\TicTacToe V1.3\TicTacToe\bin\TypeScriptHTMLApp1.dll
+C:\Users\koman\Desktop\TicTacToe V1.3\TicTacToe\bin\TypeScriptHTMLApp1.pdb
+C:\Users\koman\Desktop\TicTacToe V1.3\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\koman\Desktop\TicTacToe V1.3\TicTacToe\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\koman\Desktop\TicTacToe V1.3\TicTacToe\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\koman\Desktop\TicTacToe V1.4\TicTacToe\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\koman\Desktop\TicTacToe V1.4\TicTacToe\bin\TypeScriptHTMLApp1.dll
+C:\Users\koman\Desktop\TicTacToe V1.4\TicTacToe\bin\TypeScriptHTMLApp1.pdb
+C:\Users\koman\Desktop\TicTacToe V1.4\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\koman\Desktop\TicTacToe V1.4\TicTacToe\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\koman\Desktop\TicTacToe V1.4\TicTacToe\obj\Debug\TypeScriptHTMLApp1.pdb

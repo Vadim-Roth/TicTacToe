@@ -1,0 +1,23 @@
+﻿body {
+    font-family: monospace;
+    background-color: black;
+}
+
+table, tr, td {
+    border: 1px solid green;
+}
+
+td {
+    font-weight: bold;
+    font-size: x-large;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    color: turquoise;
+}
+
+span{
+    color: white;
+}

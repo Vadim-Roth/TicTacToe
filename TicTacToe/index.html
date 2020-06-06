@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+
+    <script src="Sign.js"></script>
+    <script src="Board.js"></script>
+    <script src="INextMoveGenerator.js"></script>
+    <script src="Player.js"></script>
+    <script src="ManualNextMoveGenerator.js"></script>
+    <script src="AutoNextMoveGenerator.js"></script>
+    <script src="HumanPlayer.js"></script>
+    <script src="MachinePlayer.js"></script>
+    <script src="SerialDrawer.js"></script>
+    <script src="GameManager.js"></script>
+    <script src="Score.js"></script>
+
+    <script src="app.js"></script>
+</head>
+<body onload="startGame();">
+    <h1>Tic Tac Toe</h1><br /><br />
+    <div id="content"></div><br /><br />
+    
+    <button id="refresh" onclick="GameManager.play()" autofocus>Restart Game</button><br/>
+    <span>(You can also just press ENTER for New Game)</span>
+</body>
+</html>
